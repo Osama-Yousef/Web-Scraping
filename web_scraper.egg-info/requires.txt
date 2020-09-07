@@ -1,0 +1,2 @@
+beautifulSoup4<5.0.0,>=4.9.1
+requests<3.0.0,>=2.24.0
